@@ -1,4 +1,4 @@
-package golang_embed
+package test
 
 import (
 	"embed"
